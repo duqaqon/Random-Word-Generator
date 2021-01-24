@@ -18,7 +18,7 @@ RWG is a website made by [duqaqon](https://github.com/duqaqon). It was a random 
 Pull requests are welcome. 
 **For major changes, please open an issue.**
 
-``Tutorial on how to make pull requests, click [here](https://github.com/DV8FromTheWorld/JDA/wiki/5%29-Contributing)`
+``Tutorial on how to make pull requests, click [here](https://github.com/DV8FromTheWorld/JDA/wiki/5%29-Contributing)``
 
 ## Lisence
 You may use this project under the [MIT](https://choosealicense.com/licenses/mit/) licence.
