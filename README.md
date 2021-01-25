@@ -20,7 +20,7 @@ Pull requests are welcome.
 
 **Tutorial on how to make pull requests, click [here](https://github.com/DV8FromTheWorld/JDA/wiki/5%29-Contributing)**
 
-## Lisence
+## Licence
 You may use this project under the [MIT](https://choosealicense.com/licenses/mit/) licence.
 If you remove any credits in the project/source code, I will take legal actions.
 
