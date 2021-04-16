@@ -1,9 +1,9 @@
-[discord-invite]: https://twitter.com/RealDuqaqon
+[discord-invite]: https://twitter.com/duqaqon
 [lisence]: https://github.com/duqaqon/Random-Word-Generator/blob/main/LICENSE
 
 
 [lisence-shield]: https://img.shields.io/github/license/duqaqon/webhook-notifier?color=%23999999&label=Lisence
-[discord-shield]: https://img.shields.io/twitter/follow/RealDuqaqon?style=social
+[discord-shield]: https://img.shields.io/twitter/follow/duqaqon?style=social
 
 
 [ ![discord-shield][] ][discord-invite]
